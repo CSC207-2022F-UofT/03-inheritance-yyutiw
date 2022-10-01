@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BagMainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-01T23:52:07" hostname="LAPTOP-NKLBRG76" time="0.023">
+  <properties/>
+  <testcase name="TestEnhanceBagsTrue" classname="BagMainTest" time="0.023"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
